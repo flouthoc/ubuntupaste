@@ -225,7 +225,6 @@ int main(int argc, char *argv[]){
     		postData = malloc(strlen(buffer));
     		strcpy(postData,buffer);
     		printf("\nPaste Created Successfully on - %s\n",postData);
-    		free(postData);
     	}
 
 
@@ -234,7 +233,6 @@ int main(int argc, char *argv[]){
     		postData = malloc(strlen(buffer));
     		strcpy(postData,buffer);
     		printf("Here is the Link -  %s\n\n",postData);
-    		free(postData);
     	}
 
     	buffer = strtok(NULL, "\n");
