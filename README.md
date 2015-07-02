@@ -7,6 +7,9 @@ ubuntupaste is a <b>micro plugin</b> written in <b>C</b> to enable cli-interface
 ###Demo / Tutorial Video 
 Here is a link to small demo / tutorial video https://vid.me/QlTB .If you still have any problems <b>create a Issue</b>
 
+##ubuntupaste vs pastebinit
+No dependency on Python or any other environment so it'll work good for <b> broken systems </b>.
+
 ##Requirements
 ubuntupaste is micro standalone plugin so it requires almost nothing.
  
