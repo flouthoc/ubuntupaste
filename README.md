@@ -263,9 +263,9 @@ BSD-2 Clause
   4. You can add your own new features
 
 ###Bugs
-I was lazy so could could be quite sloopy , so if you find out any bug <b>Just create an Issue</b>.
+I was lazy so code could be quite sloopy , so if you find out any bug <b>Just create an Issue</b>.
 
-#####If you feel that plugin is good you can <b>Star</b> it so that i can put a debian package on my PPA for users to Direclty Install and use this thing
+#####If you feel that plugin is good you can <b>Star</b> it so that i can put a debian package on my PPA for users to Direclty Install and use this thing.
 
 ##Reference
 This code uses a function to encode request before performing HTTP POST , function is <b>url_encode</b> which is written by <b> Fred </b> here (http://www.geekhideout.com/urlcode.shtml)
