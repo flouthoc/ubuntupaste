@@ -222,7 +222,7 @@ int main(int argc, char *argv[]){
 
     	if( i == 1 ){
 
-    		postData = malloc(strlen(buffer));
+    		postData = malloc(strlen(buffer) + 1);
     		strcpy(postData,buffer);
     		printf("\nPaste Created Successfully on - %s\n",postData);
     	}
@@ -230,7 +230,7 @@ int main(int argc, char *argv[]){
 
     	if( i == 5 ){
 
-    		postData = malloc(strlen(buffer));
+    		postData = malloc(strlen(buffer) + 1);
     		strcpy(postData,buffer);
     		printf("Here is the Link -  %s\n\n",postData);
     	}
