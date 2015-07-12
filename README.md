@@ -44,7 +44,7 @@ ___
 ###About -t flag
 <b>./ubuntupaste -t <syntax-type> </b>. t flag is used to specifiy the language type for which syntax highlighting will be done in yous paste script.
 
-####Here is some of the -t flags
+####Here are some of the -t flags
 ```bash
 text - Plain Text
 Cucumber - Gherkin
